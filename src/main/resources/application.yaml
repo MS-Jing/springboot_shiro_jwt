@@ -1,0 +1,16 @@
+
+spring:
+  datasource:
+    username: root
+    password: 612612
+    url: jdbc:mysql://localhost:3306/mybatis?useSSL=false&useUnicode=true&characterEncoding=utf-8&serverTimezone=GMT%2B8
+    driver-class-name: com.mysql.cj.jdbc.Driver
+  redis:
+    host: 127.0.0.1
+    port: 6379
+    database: 0
+
+lj:
+  jwt:
+    SING: fjkdlshfkjdlshf6879&*&^%&^%&()*(
+    date: 7
